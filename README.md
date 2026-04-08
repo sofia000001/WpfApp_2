@@ -80,11 +80,13 @@
 
 ### Пример 1: Корректная строка
 **Вход:** `String message = "Hello World";`
+
 <img width="1173" height="354" alt="image" src="https://github.com/user-attachments/assets/7be8f610-fff5-482e-9ed1-c8d686be5c20" />
 
 
 ### Пример 2: Строка с escape-последовательностями
 **Вход:** `String path = "C:\\Program Files\\Java";`
+
 <img width="1182" height="371" alt="image" src="https://github.com/user-attachments/assets/a3a9025a-1b1b-4da5-87f4-f0e4ee56e37f" />
 
 
@@ -93,11 +95,13 @@
 `String name = "John";`
 `int age = 25;`
 `String greeting = "Hello\n" + name + "!";`
+
 <img width="1170" height="439" alt="image" src="https://github.com/user-attachments/assets/1254ade2-9b9b-4dca-a29a-0eb695d61792" />
 
 
 ### Пример 4: Строка с ошибкой (незакрытая кавычка)
 **Вход:** `String text = "Unclosed string;`
+
 <img width="1162" height="407" alt="image" src="https://github.com/user-attachments/assets/ecb86a72-3d2b-4ce2-b946-3dac01982a0f" />
 
 
